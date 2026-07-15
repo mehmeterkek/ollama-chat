@@ -62,8 +62,8 @@ ollama list
 If you're cloning from GitHub:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/mehmeterkek/ollama-chat.git
+cd ollama-chat
 ```
 
 ## Step 4: Set up the Python environment
